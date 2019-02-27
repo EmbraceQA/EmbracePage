@@ -1,2 +1,2 @@
 # EmbracePage
-A test oage to aid in QA
+A test page to aid in QA
